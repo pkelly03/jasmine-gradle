@@ -16,8 +16,3 @@ repositories {
 dependencies {
      testCompile "junit:junit:4.8.2"
 }
-
-
-
-//convention.plugins.jasmineGradlePlugin.failBuildOnSpecFailure = false;
-//convention.plugins.jasmineGradlePlugin.failBuildOnJslintFailure = false;
