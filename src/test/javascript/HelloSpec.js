@@ -3,7 +3,7 @@ describe("Hello world", function() {
         expect(helloWorld()).toEqual("Hello world!");
     });
 
-    xit("says hello world - should fail!", function() {
+    it("says hello world - should fail!", function() {
         expect(helloWorld()).toEqual("Hello world.....");
     });
 
