@@ -1,0 +1,2 @@
+jasmineGradle.add( "../FormatSpecRunner.html" );
+
